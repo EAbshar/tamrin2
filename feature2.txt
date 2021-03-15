@@ -1,6 +1,6 @@
 Line 1 edited as second commit
 Line 2
 Line 3
-Line 4
+Line 4 edited as third commit 
 Line 5
 
